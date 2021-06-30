@@ -5,8 +5,7 @@ subject: 'cat:cs.*'
 keywords:
         pose estimation: 3
         CNN: 2
-        NN: 2
-        vision: 1
+        pose: 3
 
 # 通知の閾値
 score_threshold: 1
