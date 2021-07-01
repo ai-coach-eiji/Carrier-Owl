@@ -5,7 +5,7 @@ subject: 'cat:cs.*'
 keywords:
         pose estimation: 3
         CNN: 2
-        pose: 3
+        skelenton: 3
 
 # 通知の閾値
 score_threshold: 1
