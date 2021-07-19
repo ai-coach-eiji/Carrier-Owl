@@ -4,8 +4,8 @@ subject: 'cat:cs.*'
 # 検索キーワード
 keywords:
         pose estimation: 3
-        CNN: 2
-        skelenton: 3
+        attention: 2
+        transformer: 3
 
 # 通知の閾値
 score_threshold: 1
